@@ -1,0 +1,11 @@
+# Estado local do Obsidian e arquivos temporários
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+.trash/
+.DS_Store
+
+# Credenciais locais
+.env
+.env.*
+!.env.example
