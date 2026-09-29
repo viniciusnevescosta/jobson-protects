@@ -1,6 +1,12 @@
 # Resultados da prospecção
 
-Registrar fatos comerciais confirmados, usando as fichas de [[LEADS]] como evidência. **Nesta etapa, não houve pesquisa, contato ou contratação registrada. Não há desempenho de campanha apurado.**
+Registrar fatos comerciais confirmados, usando as fichas de [[LEADS]] como evidência. **Em 2026-09-29 foram pesquisados 15 candidatos em fontes públicas. Nenhum foi contatado, não houve orçamento ou contratação e ainda não há desempenho de campanha apurado.**
+
+## Atividade de pesquisa
+
+| Data | Leads pesquisados | Segmentos | Leads contatados | Observação |
+| --- | ---: | --- | ---: | --- |
+| 2026-09-29 | 15 | Hospedagem (5); arquitetura/interiores (5); mercado imobiliário (2); espaços corporativos (3) | 0 | Pesquisa em páginas oficiais; necessidade de contratação não confirmada. Ver fichas [[LEADS]]. |
 
 ## Registro de resultados
 

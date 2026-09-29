@@ -24,7 +24,11 @@ A Fonte da Verdade prevalece em condições comerciais e atendimento. Critérios
 
 Não alterar a Fonte da Verdade por inferência de pesquisa. Registrar novas condições somente após confirmação do Jobson. Não cadastrar exemplos de empresas ou modelos como leads reais.
 
-## Preparação da próxima etapa
+## Pesquisa iniciada em 2026-09-29
+
+A primeira rodada registrou 15 candidatos de hospedagem, arquitetura/interiores, mercado imobiliário e espaços corporativos em [[LEADS]]. Fontes públicas oficiais, evidências, canal e rascunho personalizado estão nas fichas. Um caso permanece em pesquisa porque a empresa já oferece fotografia profissional; necessidade comercial não foi confirmada para nenhum candidato. Nenhum contato foi feito. Esta rodada cobre fontes públicas indexadas, não garante encontrar toda oportunidade disponível na internet.
+
+## Próxima rodada de pesquisa
 
 Começar por administradoras de hospedagem e profissionais com múltiplos imóveis na cidade de São Paulo, priorizando a proximidade da Barra Funda. Depois, avançar pelas prioridades do Perfil. O tamanho do lote pode ser definido no início da pesquisa.
 
@@ -34,7 +38,7 @@ Para cada lead, entregar ficha com fontes, elegibilidade, potencial, canal princ
 
 - Originais preservados integralmente em `historico/2026-09-29-base-original/`.
 - Nomes antigos mantidos como atalhos para preservar a navegação no Obsidian.
-- Documentos canônicos padronizados; controles começam vazios, sem leads ou resultados fictícios.
+- Os documentos e controles foram preparados sem dados fictícios; em 2026-09-29 a primeira rodada acrescentou 15 fichas pesquisadas, sem registros de contato ou contratação.
 - Divergência geográfica corrigida no Perfil: cidades vizinhas não são elegíveis enquanto a Fonte da Verdade restringir o atendimento à capital.
 - Condições comerciais originais preservadas. Cadência de follow-up identificada como sugestão operacional.
-- Nenhuma pesquisa externa, mensagem enviada ou automação criada nesta etapa.
+- Primeira rodada de pesquisa pública adicionou 15 fichas em hospedagem, arquitetura/interiores, mercado imobiliário e espaços corporativos; nenhum contato ou automação foi realizado.

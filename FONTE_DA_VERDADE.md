@@ -204,6 +204,10 @@ contato@jobsonpereirapassos.com.br
 
 [https://jobsonpereirapassos.pic-time.com/client](https://jobsonpereirapassos.pic-time.com/client)
 
+### Whatsapp / Telefone
+
+[+55 (11) 97729-3625](https://wa.me/11977293625)
+
 ---
 
 ## 10. Posicionamento comercial
