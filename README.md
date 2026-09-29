@@ -26,11 +26,11 @@ Não alterar a Fonte da Verdade por inferência de pesquisa. Registrar novas con
 
 ## Pesquisa iniciada em 2026-09-29
 
-A base registra 107 leads. A rodada mais recente acrescentou 7 administradoras de temporada com sinais explícitos de necessidade repetida de fotografia profissional; fornecedores externos e demanda imediata ainda precisam ser confirmados em [[LEADS]]. As fichas trazem evidências públicas, contato/canal recomendado e próximos pontos a confirmar. Nenhuma mensagem personalizada foi preparada nesta rodada, conforme orientação do usuário; outro modelo poderá gerá-la depois a partir das fichas. Nenhum contato foi feito. A busca cobriu fontes públicas indexadas, não representa um censo de toda a internet.
+A base registra 117 leads. As rodadas recentes acrescentaram 7 administradoras de temporada com sinais de necessidade repetida de fotografia profissional e 10 escritórios/profissionais de arquitetura com projetos recentes fotografados profissionalmente; fornecedores externos e demanda imediata ainda precisam ser confirmados em [[LEADS]]. As fichas trazem evidências públicas, contato/canal recomendado e próximos pontos a confirmar. Nenhuma mensagem personalizada foi preparada nesta rodada, conforme orientação do usuário; outro modelo poderá gerá-la depois a partir das fichas. Nenhum contato foi feito. A busca cobriu fontes públicas indexadas, não representa um censo de toda a internet.
 
 ## Próxima rodada de pesquisa
 
-Próxima atividade: validar a abertura a fornecedores externos e a demanda atual dos 7 leads de alta propensão adicionados nesta rodada; depois priorizar os demais leads conforme região e potencial.
+Próxima atividade: validar a abertura a fornecedores externos e a demanda atual dos leads de alta propensão adicionados nesta rodada; seguir priorizando projetos recentes e profissionais individuais dentro da capital.
 
 Para cada lead, manter fonte, elegibilidade, potencial, canal principal e alternativa quando disponível, justificativa do canal e próxima ação. A mensagem específica por canal será produzida posteriormente conforme pedido do usuário.
 
@@ -44,3 +44,5 @@ Para cada lead, manter fonte, elegibilidade, potencial, canal principal e altern
 - Rodada inicial de pesquisa pública adicionou 85 fichas em hospedagem, arquitetura/interiores, mercado imobiliário, coworking e espaços de eventos; nenhum contato ou automação foi realizado. Mensagens personalizadas por lead ficaram para outra etapa.
 
 - Rodada de alta propensão em 2026-09-29 adicionou 7 administradoras com fotografia profissional expressamente vinculada ao onboarding/gestão. A inclusão indica demanda operacional provável, não comprova terceirização ou intenção atual. Nenhuma mensagem foi enviada.
+- Rodada complementar em 2026-09-29 adicionou 9 leads de arquitetura, incluindo profissionais individuais, com crédito público de fotografia profissional em projetos recentes. A inclusão indica propensão, não demanda imediata nem abertura confirmada a fornecedores externos. Nenhuma mensagem foi enviada.
+- Inclusão de Marília Junqueira / MAJ Arquitetura, com projetos de 2025 creditados a fotógrafos profissionais; canal direto deve ser confirmado. Nenhuma mensagem foi enviada.

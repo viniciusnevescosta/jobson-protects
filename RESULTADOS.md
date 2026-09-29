@@ -1,6 +1,6 @@
 # Resultados da prospecção
 
-Registrar fatos comerciais confirmados, usando as fichas de [[LEADS]] como evidência. **Em 2026-09-29 a base chegou a 107 leads: 100 da rodada anterior e 7 novos leads selecionados por sinais explícitos de necessidade recorrente de fotografia profissional. Nenhum foi contatado, não houve orçamento ou contratação e ainda não há desempenho de campanha apurado.**
+Registrar fatos comerciais confirmados, usando as fichas de [[LEADS]] como evidência. **Em 2026-09-29 a base chegou a 117 leads: 100 anteriores, 7 gestores de hospedagem e 10 leads de arquitetura com sinais explícitos de uso recente e repetido de fotografia profissional. Nenhum foi contatado, não houve orçamento ou contratação e ainda não há desempenho de campanha apurado.**
 
 ## Atividade de pesquisa
 
@@ -8,6 +8,8 @@ Registrar fatos comerciais confirmados, usando as fichas de [[LEADS]] como evid�
 | --- | ---: | --- | ---: | --- |
 | 2026-09-29 | 100 | Hospedagem, arquitetura/interiores, imobiliário, coworking e eventos | 0 | 85 candidatos adicionados na rodada anterior. Ver fichas [[LEADS]]. |
 | 2026-09-29 | 7 | Gestão de hospedagem/temporada | 0 | Selecionados porque incluem fotografia profissional no onboarding, anúncio ou atualização; fornecedores externos e intenção de compra ainda não confirmados. Nenhuma mensagem enviada. |
+| 2026-09-29 | 9 | Arquitetura e interiores; escritórios e profissionais individuais | 0 | Projetos recentes com créditos públicos de fotógrafos profissionais. Abertura a fornecedores externos e demanda atual pendentes. Nenhuma mensagem enviada. |
+| 2026-09-29 | 1 | Arquitetura e interiores; profissional individual | 0 | Projeto residencial e ambiente de mostra recentes com créditos públicos de fotógrafos profissionais. Canal direto precisa ser confirmado. Nenhuma mensagem enviada. |
 
 ## Registro de resultados
 

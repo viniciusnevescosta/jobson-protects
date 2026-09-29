@@ -1,6 +1,6 @@
 # Controle de leads
 
-**Base atualizada em 2026-09-29:** 107 empresas/profissionais registrados (100 anteriores + 7 novos leads de alta propensão), com fontes públicas. Nenhum contato foi realizado; intenção de compra e contratação de fornecedores externos ainda precisam ser confirmadas.
+**Base atualizada em 2026-09-29:** 117 empresas/profissionais registrados (100 anteriores + 7 gestores de hospedagem + 10 leads de arquitetura com sinais de uso recorrente de fotografia profissional), com fontes públicas. Nenhum contato foi realizado; intenção de compra e contratação de fornecedores externos ainda precisam ser confirmadas.
 
 Cada lead tem ficha em `leads/`, criada conforme [[MODELO_DE_LEAD]]. Este arquivo é o índice; a ficha é a referência do histórico. A pesquisa anterior cobriu hospedagem/aluguel por temporada, arquitetura/interiores, mercado imobiliário, coworking e espaços de eventos em São Paulo. A rodada mais recente priorizou gestores de temporada cujo próprio serviço inclui sessões profissionais recorrentes. Mensagens personalizadas não foram incluídas nesta rodada, conforme orientação do usuário.
 
@@ -115,6 +115,16 @@ Cada lead tem ficha em `leads/`, criada conforme [[MODELO_DE_LEAD]]. Este arquiv
 | [[leads/LEAD-0105-anfitriao-prime]] | Anfitrião Prime | Gestão de temporada | Itaim Bibi / operação nacional | Alto | WhatsApp — +55 11 96606-4436 | Qualificado | | Verificar fornecedores homologados para São Paulo. | Jobson |
 | [[leads/LEAD-0106-anfitriao-sp]] | Anfitrião SP | Administração Airbnb | São Paulo capital e ABC | Alto | WhatsApp — +55 11 98678-1152 | Qualificado | | Confirmar carteira na capital e contratação externa. | Jobson |
 | [[leads/LEAD-0107-hostnjoy]] | HostnJoy | Administração Airbnb | São Paulo capital / operação em 16 cidades | Alto | E-mail — contato@hostnjoy.com | Qualificado | | Perguntar se usam fotógrafos parceiros locais. | Jobson |
+| [[leads/LEAD-0108-zalc-arquitetura]] | ZALC Arquitetura | Arquitetura e interiores | São Paulo | Alto | Instagram — @zalc.arq | Qualificado | | Confirmar demanda futura e abertura a fornecedores externos. | Jobson |
+| [[leads/LEAD-0109-ina-arquitetura]] | INÁ Arquitetura | Arquitetura e interiores | São Paulo | Alto | WhatsApp — +55 11 94784-2696 | Qualificado | | Confirmar demanda futura e abertura a fornecedores externos. | Jobson |
+| [[leads/LEAD-0110-undiu-arquitetura]] | Undiú Arquitetura | Arquitetura e interiores | São Paulo | Alto | E-mail — undiu@undiu.com | Qualificado | | Confirmar demanda futura e abertura a fornecedores externos. | Jobson |
+| [[leads/LEAD-0111-rawi-arquitetura]] | Rawi Arquitetura | Arquitetura e interiores | São Paulo | Alto | E-mail — ola@rawi.com.br | Qualificado | | Confirmar demanda futura e abertura a fornecedores externos. | Jobson |
+| [[leads/LEAD-0112-peninsula-arquitetura]] | Península Arquitetura | Arquitetura e interiores | Pinheiros / São Paulo | Alto | E-mail — contato@peninsula.arq.br | Qualificado | | Confirmar demanda futura e abertura a fornecedores externos. | Jobson |
+| [[leads/LEAD-0113-daniela-funari]] | Daniela Funari | Arquiteta / interiores | Barra Funda | Alto | E-mail — contato@danielafunariarquitetura.com.br | Qualificado | | Verificar próxima entrega e abertura a fornecedores. | Jobson |
+| [[leads/LEAD-0114-sabrina-salles]] | Sabrina Salles | Arquiteta / interiores | Brooklin Novo | Alto | E-mail — contato@sabrinasalles.com.br | Qualificado | | Verificar agenda de ensaios e política para novos fotógrafos. | Jobson |
+| [[leads/LEAD-0115-michelle-machado]] | Michelle Machado Arquitetura | Arquiteta / interiores | Brooklin | Alto | Instagram profissional (perfil vinculado à Habitare) | Qualificado | | Confirmar perfil oficial e abertura a propostas. | Jobson |
+| [[leads/LEAD-0116-kas-arq-klaus-schmidt]] | Klaus Schmidt / KAS ARQ | Arquitetura e interiores | Jardins | Alto | E-mail — ADM@KAS.ARQ.BR | Qualificado | | Confirmar ensaios previstos e abertura a fornecedores. | Jobson |
+| [[leads/LEAD-0117-marilia-junqueira-maj]] | Marília Junqueira / MAJ Arquitetura | Arquiteta / interiores | Brooklin Paulista | Alto | E-mail — contato@majarquitetura.com.br | Qualificado | | Confirmar canal atual, agenda de projetos e abertura a propostas. | Jobson |
 
 ## Status padronizados
 
