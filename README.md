@@ -26,19 +26,19 @@ Não alterar a Fonte da Verdade por inferência de pesquisa. Registrar novas con
 
 ## Pesquisa iniciada em 2026-09-29
 
-A primeira rodada registrou 15 candidatos de hospedagem, arquitetura/interiores, mercado imobiliário e espaços corporativos em [[LEADS]]. Fontes públicas oficiais, evidências, canal e rascunho personalizado estão nas fichas. Um caso permanece em pesquisa porque a empresa já oferece fotografia profissional; necessidade comercial não foi confirmada para nenhum candidato. Nenhum contato foi feito. Esta rodada cobre fontes públicas indexadas, não garante encontrar toda oportunidade disponível na internet.
+A varredura ampliada registrou 100 candidatos (15 anteriores + 85 novos) em hospedagem, arquitetura/interiores, mercado imobiliário, coworking e espaços de eventos em [[LEADS]]. As fichas trazem evidências públicas, contato/canal recomendado e próximos pontos a confirmar. Nenhuma mensagem personalizada foi preparada nesta rodada, conforme orientação do usuário; outro modelo poderá gerá-la depois a partir das fichas. Nenhum contato foi feito. A busca cobriu fontes públicas indexadas, não representa um censo de toda a internet.
 
 ## Próxima rodada de pesquisa
 
-Começar por administradoras de hospedagem e profissionais com múltiplos imóveis na cidade de São Paulo, priorizando a proximidade da Barra Funda. Depois, avançar pelas prioridades do Perfil. O tamanho do lote pode ser definido no início da pesquisa.
+Próxima atividade: validar atualidade dos contatos, identificar responsáveis por fotografia/fornecedores e confirmar demanda dos 85 candidatos recém-adicionados, priorizando os leads de maior potencial e próximos à Barra Funda.
 
-Para cada lead, entregar ficha com fontes, elegibilidade, potencial, canal principal e alternativa quando disponível, justificativa do canal, mensagem pronta e próxima ação. A falta de um contato adequado mantém o lead em pesquisa.
+Para cada lead, manter fonte, elegibilidade, potencial, canal principal e alternativa quando disponível, justificativa do canal e próxima ação. A mensagem específica por canal será produzida posteriormente conforme pedido do usuário.
 
 ## Organização realizada em 2026-09-29
 
 - Originais preservados integralmente em `historico/2026-09-29-base-original/`.
 - Nomes antigos mantidos como atalhos para preservar a navegação no Obsidian.
-- Os documentos e controles foram preparados sem dados fictícios; em 2026-09-29 a primeira rodada acrescentou 15 fichas pesquisadas, sem registros de contato ou contratação.
+- Os documentos e controles foram preparados sem dados fictícios; em 2026-09-29 a rodada ampliada acrescentou 85 fichas pesquisadas, sem registros de contato ou contratação.
 - Divergência geográfica corrigida no Perfil: cidades vizinhas não são elegíveis enquanto a Fonte da Verdade restringir o atendimento à capital.
 - Condições comerciais originais preservadas. Cadência de follow-up identificada como sugestão operacional.
-- Primeira rodada de pesquisa pública adicionou 15 fichas em hospedagem, arquitetura/interiores, mercado imobiliário e espaços corporativos; nenhum contato ou automação foi realizado.
+- Rodada ampliada de pesquisa pública adicionou 85 fichas em hospedagem, arquitetura/interiores, mercado imobiliário, coworking e espaços de eventos; nenhum contato ou automação foi realizado. Mensagens personalizadas por lead ficaram para outra etapa.
