@@ -1,8 +1,8 @@
 # Controle de leads
 
-**Varredura ampliada realizada em 2026-09-29:** 100 empresas/profissionais registrados (15 anteriores + 85 novos candidatos) em fontes públicas. Nenhum contato foi realizado; intenção de compra não confirmada.
+**Base atualizada em 2026-09-29:** 107 empresas/profissionais registrados (100 anteriores + 7 novos leads de alta propensão), com fontes públicas. Nenhum contato foi realizado; intenção de compra e contratação de fornecedores externos ainda precisam ser confirmadas.
 
-Cada lead tem ficha em `leads/`, criada conforme [[MODELO_DE_LEAD]]. Este arquivo é o índice; a ficha é a referência do histórico. A pesquisa ampliada cobriu hospedagem/aluguel por temporada, arquitetura/interiores, mercado imobiliário, coworking e espaços de eventos em São Paulo. Mensagens personalizadas não foram incluídas nesta rodada, conforme orientação do usuário.
+Cada lead tem ficha em `leads/`, criada conforme [[MODELO_DE_LEAD]]. Este arquivo é o índice; a ficha é a referência do histórico. A pesquisa anterior cobriu hospedagem/aluguel por temporada, arquitetura/interiores, mercado imobiliário, coworking e espaços de eventos em São Paulo. A rodada mais recente priorizou gestores de temporada cujo próprio serviço inclui sessões profissionais recorrentes. Mensagens personalizadas não foram incluídas nesta rodada, conforme orientação do usuário.
 
 ## Índice
 
@@ -108,6 +108,13 @@ Cada lead tem ficha em `leads/`, criada conforme [[MODELO_DE_LEAD]]. Este arquiv
 | [[leads/LEAD-0098-workplace-coworking]] | Workplace Coworking | Coworking | Cerqueira César / Paulista | Médio | Formulário — Formulário oficial do site | Qualificado | | Verificar demanda e responsável por fotografia/fornecedores antes de contato. | Jobson |
 | [[leads/LEAD-0099-bendito-coworking]] | Bendito Coworking | Coworking | Paraíso e Paulista | Alto | Telefone — (11) 3081-1121; (11) 3287-0307 | Qualificado | | Verificar demanda e responsável por fotografia/fornecedores antes de contato. | Jobson |
 | [[leads/LEAD-0100-youw-coworking]] | Youw Coworking | Coworking | Faria Lima | Médio | E-mail — contato@youw.com.br; (11) 4240-2100 | Qualificado | | Verificar demanda e responsável por fotografia/fornecedores antes de contato. | Jobson |
+| [[leads/LEAD-0101-we-host]] | We Host | Gestão short/long stay | São Paulo | Alto | WhatsApp — +55 11 95090-0055 | Qualificado | | Confirmar se terceiriza sessões e quem coordena fotografia. | Jobson |
+| [[leads/LEAD-0102-izi-stays]] | ÍZI Stays | Gestão de temporada | São Paulo; Paulista, Pinheiros, Vila Olímpia, Itaim e Faria Lima | Alto | WhatsApp — +55 11 91217-5962 | Qualificado | | Confirmar fornecedores externos e volume de novos imóveis. | Jobson |
+| [[leads/LEAD-0103-mape-host]] | Mapê Host | Gestão de temporada | Pinheiros / São Paulo | Alto | WhatsApp — +55 11 97402-2603 | Qualificado | | Confirmar se as sessões do onboarding são terceirizadas. | Jobson |
+| [[leads/LEAD-0104-wecare-hosting]] | WeCare Hosting | Gestão de temporada alto padrão | São Paulo; Jardins e Itaim | Alto | WhatsApp — +55 11 96976-0183 | Qualificado | | Perguntar sobre parceiros para onboarding fotográfico. | Jobson |
+| [[leads/LEAD-0105-anfitriao-prime]] | Anfitrião Prime | Gestão de temporada | Itaim Bibi / operação nacional | Alto | WhatsApp — +55 11 96606-4436 | Qualificado | | Verificar fornecedores homologados para São Paulo. | Jobson |
+| [[leads/LEAD-0106-anfitriao-sp]] | Anfitrião SP | Administração Airbnb | São Paulo capital e ABC | Alto | WhatsApp — +55 11 98678-1152 | Qualificado | | Confirmar carteira na capital e contratação externa. | Jobson |
+| [[leads/LEAD-0107-hostnjoy]] | HostnJoy | Administração Airbnb | São Paulo capital / operação em 16 cidades | Alto | E-mail — contato@hostnjoy.com | Qualificado | | Perguntar se usam fotógrafos parceiros locais. | Jobson |
 
 ## Status padronizados
 
@@ -130,4 +137,4 @@ Os registros estão em “Qualificado” porque fontes públicas sustentam compa
 
 ## Deduplicação
 
-Os quinze domínios/perfis foram conferidos entre si; não foi observada duplicidade empresarial. A cobertura é uma varredura ampla de fontes públicas indexadas, não um censo de toda a internet. A GOWORK apresenta contagens divergentes de unidades em trechos distintos; volume fica para confirmar. Antes de criar novos registros, comparar nome, domínio, perfil oficial e telefone. Reunir contatos alternativos da mesma empresa na mesma ficha. Se aparecer duplicata, preservar histórico e contar apenas o registro principal.
+Os registros foram conferidos por nome, domínio e marca; não foi observada duplicidade empresarial. A cobertura é uma varredura ampla de fontes públicas indexadas, não um censo de toda a internet. A GOWORK apresenta contagens divergentes de unidades em trechos distintos; volume fica para confirmar. Antes de criar novos registros, comparar nome, domínio, perfil oficial e telefone. Reunir contatos alternativos da mesma empresa na mesma ficha. Se aparecer duplicata, preservar histórico e contar apenas o registro principal.
