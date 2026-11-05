@@ -80,3 +80,28 @@ Nenhum contato realizado.
 
 | Data/hora | Tipo de evento | Canal | Responsável | Mensagem enviada ou retorno recebido | Próxima ação |
 | --- | --- | --- | --- | --- | --- |
+
+
+### E-mail verificado em Enviados — 2026-11-05
+
+- Remetente: contato@jobsonpereirapassos.com.br.
+- Destinatário: contato@folioarquitetura.com.
+- Assunto: Fotografia de interiores para a Folio | Jobson Passos.
+- Envio(s) na pasta Enviados: 18:48 (horário de São Paulo).
+- Anexo: Jobson-Fotografia-Arquitetos.pdf.
+- Link: https://jobsonpereirapassos.com.br/.
+- Recebimento/leitura pelo destinatário: não confirmado.
+- Não reenviar a abordagem.
+
+**Texto:**
+
+> Olá, equipe Folio! Tudo bem?
+> 
+> Sou o Jobson Passos, fotógrafo de arquitetura e interiores em São Paulo. Vi no site que vocês trabalham com interiores residenciais e corporativos e gostaria de apresentar meu trabalho de fotos e vídeos de projetos concluídos, para portfólio, site e redes sociais.
+> 
+> Vocês têm algum projeto próximo da conclusão para fotografar? Deixo uma apresentação em anexo e meu portfólio: https://jobsonpereirapassos.com.br/
+> 
+> Obrigado!
+> Jobson Passos
+> WhatsApp: (11) 98146-8316
+> Instagram: @jobson.passos

@@ -44,3 +44,28 @@
 - **Resultado:** não apurado.
 
 > Qualificação indica adequação potencial baseada em informação pública; não confirma intenção de compra, contratação anterior ou aceitação de fornecedores externos.
+
+
+### E-mail verificado em Enviados — 2026-11-05
+
+- Remetente: contato@jobsonpereirapassos.com.br.
+- Destinatário: vila37sp@gmail.com.
+- Assunto: Fotografia de interiores | Vila 37 Boutique Apartments.
+- Envio(s) na pasta Enviados: 19:10 (horário de São Paulo).
+- Anexo: Jobson-Fotografia-Airbnb.pdf.
+- Link: https://jobsonpereirapassos.com.br/.
+- Recebimento/leitura pelo destinatário: não confirmado.
+- Não reenviar a abordagem.
+
+**Texto:**
+
+> Olá, equipe Vila 37 Boutique Apartments! Tudo bem?
+> 
+> Sou o Jobson Passos, fotógrafo de imóveis e interiores em São Paulo. Estou entrando em contato para apresentar meu trabalho de fotos e vídeos de apartamentos para anúncios de temporada. Atendo tanto novos imóveis quanto a renovação das imagens de anúncios existentes.
+> 
+> Vocês recebem propostas de fotógrafos parceiros? Quem cuida dessa contratação por aí? Deixo uma apresentação em anexo e meu portfólio: https://jobsonpereirapassos.com.br/
+> 
+> Obrigado!
+> Jobson Passos
+> WhatsApp: (11) 98146-8316
+> Instagram: @jobson.passos

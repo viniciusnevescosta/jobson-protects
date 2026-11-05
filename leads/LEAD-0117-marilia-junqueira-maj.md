@@ -46,3 +46,28 @@
 - **Resultado:** não apurado.
 
 > O uso recente e repetido de fotógrafos profissionais indica propensão, mas não comprova demanda aberta nem contratação externa.
+
+
+### E-mail verificado em Enviados — 2026-11-05
+
+- Remetente: contato@jobsonpereirapassos.com.br.
+- Destinatário: contato@majarquitetura.com.br.
+- Assunto: Fotografia de interiores | Marília Junqueira / MAJ Arquitetura.
+- Envio(s) na pasta Enviados: 19:07 (horário de São Paulo).
+- Anexo: Jobson-Fotografia-Arquitetos.pdf.
+- Link: https://jobsonpereirapassos.com.br/.
+- Recebimento/leitura pelo destinatário: não confirmado.
+- Não reenviar a abordagem.
+
+**Texto:**
+
+> Olá, Marília e equipe MAJ! Tudo bem?
+> 
+> Sou o Jobson Passos, fotógrafo de arquitetura e interiores em São Paulo. Gostaria de apresentar meu trabalho de fotos e vídeos de projetos concluídos, para portfólio, site e redes sociais.
+> 
+> Vocês têm algum projeto próximo da conclusão para fotografar ou recebem propostas de fotógrafos parceiros? Deixo uma apresentação em anexo e meu portfólio: https://jobsonpereirapassos.com.br/
+> 
+> Obrigado!
+> Jobson Passos
+> WhatsApp: (11) 98146-8316
+> Instagram: @jobson.passos

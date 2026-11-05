@@ -44,3 +44,28 @@
 - **Resultado:** não apurado.
 
 > Qualificação indica adequação potencial baseada em informação pública; não confirma intenção de compra, contratação anterior ou aceitação de fornecedores externos.
+
+
+### E-mail verificado em Enviados — 2026-11-05
+
+- Remetente: contato@jobsonpereirapassos.com.br.
+- Destinatário: contato@alas.arq.br.
+- Assunto: Fotografia de interiores | Alas Arquitetura.
+- Envio(s) na pasta Enviados: 18:56 (horário de São Paulo).
+- Anexo: Jobson-Fotografia-Arquitetos.pdf.
+- Link: https://jobsonpereirapassos.com.br/.
+- Recebimento/leitura pelo destinatário: não confirmado.
+- Não reenviar a abordagem.
+
+**Texto:**
+
+> Olá, equipe Alas Arquitetura! Tudo bem?
+> 
+> Sou o Jobson Passos, fotógrafo de arquitetura e interiores em São Paulo. Gostaria de apresentar meu trabalho de fotos e vídeos de projetos concluídos, para portfólio, site e redes sociais.
+> 
+> Vocês têm algum projeto próximo da conclusão para fotografar ou recebem propostas de fotógrafos parceiros? Deixo uma apresentação em anexo e meu portfólio: https://jobsonpereirapassos.com.br/
+> 
+> Obrigado!
+> Jobson Passos
+> WhatsApp: (11) 98146-8316
+> Instagram: @jobson.passos
