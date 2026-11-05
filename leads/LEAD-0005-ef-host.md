@@ -80,3 +80,22 @@ Nenhum contato realizado.
 
 | Data/hora | Tipo de evento | Canal | Responsável | Mensagem enviada ou retorno recebido | Próxima ação |
 | --- | --- | --- | --- | --- | --- |
+
+### Auditoria de envio — 2026-11-05
+
+**ATENÇÃO: o usuário identificou mensagens de apresentação para empresas diferentes na mesma conversa. O registro abaixo reflete a intenção de envio e não confirma o destinatário real. Suspender novos envios e conferir o histórico no WhatsApp. Não usar este registro como comprovação de contato individual.**
+
+### Registro operacional ainda não auditado — 2026-11-05
+
+- Canal: WhatsApp comercial do Jobson, +55 11 98146-8316.
+- Destinatário: 5511987693772.
+- Situação: Mensagem e PDF enviados por WhatsApp.
+- Material: PDF do segmento e link https://jobsonpereirapassos.com.br/.
+- Apresentação: em nome do Jobson, conforme autorização do usuário neste chat.
+- Não reenviar a apresentação; conferir histórico antes de qualquer retomada.
+
+**Mensagem enviada:**
+
+> Olá, equipe EF Host! Tudo bem? Sou o Jobson, fotógrafo de imóveis e interiores em São Paulo. Vi que a preparação dos imóveis de vocês inclui fotos profissionais e gostaria de apresentar meu trabalho para possíveis parcerias nessa etapa. Também faço vídeos dos ambientes.
+> 
+> Quem cuida dos fotógrafos parceiros? Deixo meu portfólio e envio uma apresentação em PDF: https://jobsonpereirapassos.com.br/

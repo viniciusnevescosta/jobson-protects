@@ -80,3 +80,20 @@ Nenhum contato realizado.
 
 | Data/hora | Tipo de evento | Canal | Responsável | Mensagem enviada ou retorno recebido | Próxima ação |
 | --- | --- | --- | --- | --- | --- |
+
+### Auditoria de envio — 2026-11-05
+
+**ATENÇÃO: o usuário identificou mensagens de apresentação para empresas diferentes na mesma conversa. O registro abaixo reflete a intenção de envio e não confirma o destinatário real. Suspender novos envios e conferir o histórico no WhatsApp. Não usar este registro como comprovação de contato individual.**
+
+### Registro operacional ainda não auditado — 2026-11-05
+
+- Canal: WhatsApp comercial do Jobson, +55 11 98146-8316.
+- Destinatário: 5511930562333.
+- Situação: Mensagem e PDF enviados por WhatsApp.
+- Material: PDF do segmento e link https://jobsonpereirapassos.com.br/.
+- Apresentação: em nome do Jobson, conforme autorização do usuário neste chat.
+- Não reenviar a apresentação; conferir histórico antes de qualquer retomada.
+
+**Mensagem enviada:**
+
+> Apresentação de Jobson, fotos e vídeos de imóveis em São Paulo, link do portfólio e pergunta pelo responsável por fotografia. Texto completo disponível no WhatsApp.
